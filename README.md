@@ -54,7 +54,7 @@ AgriDoctor is an AI-powered Progressive Web App (PWA) that helps farmers detect 
 
 ```bash
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone <(https://github.com/Dina-Shanjida/3200_AgriDoctor/)>
 
 # Navigate to project directory
 cd agridoctor
